@@ -2,6 +2,7 @@
 
 /*
    Plugin Name: Default Screen Options
+   Plugin URI: https://github.com/Courtauld/courtauld-screen-options
    Description: When any new user is registered this plugin runs and sets their default viewing options. This way we don't have to worry about Screen Options and dragging and dropping widgets around.
    Version: 1.0
    Author: Jacob Charles Wilson
